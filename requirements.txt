@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.1
+certifi==2019.11.28
+chardet==3.0.4
+cx-Oracle==7.3.0
+idna==2.8
+lxml==4.5.0
+PyExecJS==1.5.1
+pymongo==3.10.0
+requests==2.22.0
+six==1.14.0
+soupsieve==1.9.5
+urllib3==1.25.7
